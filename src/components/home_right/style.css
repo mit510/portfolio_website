@@ -1,0 +1,35 @@
+  .home-right{
+    /* height: 100%; */
+    
+  }
+
+  .home-right-main{
+    /* height: 100%; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 110px 0;
+  }
+
+  .home-right-main-img{
+
+    
+      height: 53vh;
+     /* 65vh default */
+      margin: auto;  
+      margin-bottom: 20px;  /*added  */
+      display: block;
+      
+  }
+
+  .home-right-footer{
+     width: 100%;
+  }
+@media (min-width: 320px) and (max-width: 426px) { 
+    .home-right-main-img {
+        height: 30vh;
+    }
+    .home-right-main{
+      margin: 30px;
+    }
+}

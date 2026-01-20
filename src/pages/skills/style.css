@@ -1,0 +1,31 @@
+.SP-header{
+  background-color:#090909;
+  color:white;
+  
+}
+.SP-main{
+  font-family: 'Sulphur Point', sans-serif;
+      min-height: 95vh;
+}
+.SP-footer {
+  min-height: 5vh;
+}
+
+.skills-projects{
+  margin-top: 6.2em;
+}
+.skills{
+  margin-bottom: 1.2em;
+}
+.project-heading {
+  text-align: center;
+  color: white !important;
+  font-size: 2.3em !important;
+  font-weight: 500 !important;
+  padding-top: 10px !important;
+  letter-spacing: 0.9px;
+  margin-bottom: 0.5em;
+}
+.purple {
+  color: #ffbb48 !important;
+}

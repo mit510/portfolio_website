@@ -1,0 +1,63 @@
+.tech-icons {
+  font-size: 4.5em !important;
+  margin: 15px !important;
+  padding: 14px !important;
+  opacity: 0.95 !important;
+
+  border: 1.7px solid #ffbc48ed;
+  border-radius: 6px !important;
+
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+
+  box-shadow: 4px 5px 10px rgba(31, 20, 3, 0.6) !important;
+  background: transparent;
+
+  transition: 
+    transform 0.35s ease,
+    box-shadow 0.35s ease,
+    border 0.35s ease,
+    background-color 0.35s ease !important;
+}
+
+/* Mobile spacing */
+@media (max-width: 767px) {
+  .tech-icons {
+    margin: 10px !important;
+  }
+}
+
+/* Hover Effect */
+.tech-icons:hover {
+  transform: scale(1.12) !important;
+  border: 2.2px solid #d8a958fc !important;
+  box-shadow: 0 10px 22px rgba(255, 188, 72, 0.45) !important;
+  background-color: rgba(255, 188, 72, 0.08);
+}
+
+/* ================= BRAND COLORS ================= */
+
+.react svg { color: #61dafb; }
+.js svg { color: #f7df1e; }
+.html svg { color: #e34f26; }
+.css svg { color: #1572b6; }
+.tailwind svg { color: #38bdf8; }
+.node svg { color: #339933; }
+.express svg { color: #f1eaea; }
+.mysql svg { color: #4479a1; }
+.mongodb svg { color: #47a248; }
+.python svg { color: #3776ab; }
+.java svg { color: #007396; }
+.github svg { color: #9876fe; }
+.azure svg { color: #0078d4; }
+
+/* 🌙 DARK MODE SUPPORT */
+body.dark-mode .tech-icons {
+  box-shadow: 0 6px 14px rgba(255, 188, 72, 0.25) !important;
+}
+
+body.dark-mode .express svg,
+body.dark-mode .github svg {
+  color: #ffffff;
+}

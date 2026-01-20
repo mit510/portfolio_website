@@ -1,0 +1,33 @@
+.project-card-view {
+  box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+  box-shadow: 0 4px 5px 3px rgba(188, 131, 31, 0.482) !important;
+  color: white !important;
+  background-color: transparent !important;
+  opacity: 0.9 !important;
+  transition: all 0.5s ease 0s !important;
+  height: 100% !important;
+}
+.project-card-view:hover {
+  transform: scale(1.02) !important;
+  overflow: hidden !important;
+  box-shadow: 0 4px 4px 5px rgba(216, 146, 24, 0.482) !important;
+}
+.btn-primary{
+    background-color:#ffbb48;
+    border-color: #ffbb48;
+}
+.btn-primary:hover{
+    background-color:#e59d22;
+    border-color: #e59d22;
+    color: black;
+}
+
+.card-container{
+  position: relative;
+}
+.card-btns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}

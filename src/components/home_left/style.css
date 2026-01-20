@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Raleway|Raleway+Dot|Asap|Barlow|Glegoo|Julius+Sans+One|Lato|Muli|Poiret+One|Sulphur+Point|Turret+Road&display=swap');
+
+.home-left{
+    height: 100%;
+ }
+
+.home-left-main{
+    height: 100%;
+    text-align: center;
+}
+
+.home-left-main-col{
+    margin: auto;    
+    display: block;
+}
+
+.first-line{
+    font-size: 4.5rem;
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+.second_line{
+    font-size: 3rem;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.typical{
+    font-size: 1.6rem;
+    font-family: 'Sulphur Point', sans-serif;
+}
+
+.home-left-aboutme-main{
+    position: relative;
+    z-index: -1;
+}
+
+.home-left-aboutme{
+   color: aliceblue;
+}
+
+.home-left-aboutme:hover{
+    color: black;
+ }
+
+.home-left-aboutmme-btn:hover{
+     background: #666666;
+ }
+
+.yellow-color{
+    color: #FFBB48;
+}
+
+@media (min-width: 320px) and (max-width: 426px) { 
+    .home-left{
+        padding-top: 4.3rem;
+    }
+   .first-line {
+    font-size: 2.3rem;
+   }
+   .second_line{
+    font-size: 2.3rem;
+   }
+   .typical{
+    font-size: 1.5rem;
+   }
+   .btn-group-lg>.btn, .btn-lg {
+    padding: 0.4rem 1rem;
+    font-size: 1rem;
+    margin: 5px 0;
+   }
+}
