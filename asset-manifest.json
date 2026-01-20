@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.8adf621f.chunk.css",
+    "main.js": "/portfolio_website/static/js/main.1cc2813c.chunk.js",
+    "main.js.map": "/portfolio_website/static/js/main.1cc2813c.chunk.js.map",
+    "runtime-main.js": "/portfolio_website/static/js/runtime-main.948ed5b9.js",
+    "runtime-main.js.map": "/portfolio_website/static/js/runtime-main.948ed5b9.js.map",
+    "static/css/2.7f1403ef.chunk.css": "/portfolio_website/static/css/2.7f1403ef.chunk.css",
+    "static/js/2.a5417010.chunk.js": "/portfolio_website/static/js/2.a5417010.chunk.js",
+    "static/js/2.a5417010.chunk.js.map": "/portfolio_website/static/js/2.a5417010.chunk.js.map",
+    "index.html": "/portfolio_website/index.html",
+    "precache-manifest.60bfac03e8ef0e9e20fb3a6f04641f06.js": "/portfolio_website/precache-manifest.60bfac03e8ef0e9e20fb3a6f04641f06.js",
+    "service-worker.js": "/portfolio_website/service-worker.js",
+    "static/css/2.7f1403ef.chunk.css.map": "/portfolio_website/static/css/2.7f1403ef.chunk.css.map",
+    "static/css/main.8adf621f.chunk.css.map": "/portfolio_website/static/css/main.8adf621f.chunk.css.map",
+    "static/media/Mitkumar_Patel.pdf": "/portfolio_website/static/media/Mitkumar_Patel.02aee654.pdf",
+    "static/media/book.jpg": "/portfolio_website/static/media/book.f0d083ed.jpg",
+    "static/media/cricket.jpg": "/portfolio_website/static/media/cricket.c262e7fd.jpg",
+    "static/media/style.css": "/portfolio_website/static/media/foad_logo.525fd789.jpg",
+    "static/media/programmer1.png": "/portfolio_website/static/media/programmer1.18d0ef12.png",
+    "static/media/weather.jpg": "/portfolio_website/static/media/weather.579f480c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948ed5b9.js",
+    "static/css/2.7f1403ef.chunk.css",
+    "static/js/2.a5417010.chunk.js",
+    "static/css/main.8adf621f.chunk.css",
+    "static/js/main.1cc2813c.chunk.js"
+  ]
+}
