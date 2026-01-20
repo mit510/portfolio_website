@@ -21,7 +21,7 @@ class Projects extends Component {
         <Helmet>
           <meta charSet="utf-8" />
           <title>Projects | Mitkumar Patel</title>
-          <link rel="canonical" href="https://mit510.github.io" />
+          <link rel="canonical" href="https://mit510.github.io/portfolio_website" />
           <meta
             name="description"
             content="Mitkumar Patel | Software Developer Projects – React, Node.js, Python, Data Analytics"

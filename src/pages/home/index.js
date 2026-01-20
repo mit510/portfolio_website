@@ -22,7 +22,7 @@ function Home() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Home | Mitkumar Patel</title>
-        <link rel="canonical" href="http://mit510.github.io/home" />
+        <link rel="canonical" href="https://mit510.github.io/portfolio_website/home" />
         <meta name="description" content="Mitkumar Patel | Home" />
       </Helmet>
       <Container className="App-header" fluid={true}>
