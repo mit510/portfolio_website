@@ -19,7 +19,7 @@ class About extends Component {
         <Helmet>
           <meta charSet="utf-8" />
           <title>About | Mitkumar Patel</title>
-          <link rel="canonical" href="https://mit510.github.io/portfolio_website/home" />
+          <link rel="canonical" href="https://mit510.github.io/portfolio_website" />
           <meta
             name="description"
             content="Mitkumar Patel | About - Web Developer | Learner "

@@ -18,7 +18,7 @@ class Contact extends React.Component {
         <Helmet>
           <meta charSet="utf-8" />
           <title>Contact | Mitkumar Patel</title>
-          <link rel="canonical" href="https://mit510.github.io/portfolio_website/home" />
+          <link rel="canonical" href="https://mit510.github.io/portfolio_website" />
           <meta
             name="description"
             content="Mitkumar Patel | Contact - Web Developer | Learner "
